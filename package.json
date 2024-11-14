@@ -6,7 +6,7 @@
   "scripts": {
     "build": "strapi build",
     "deploy": "strapi deploy",
-    "develop": "strapi develop",
+    "develop": "strapi develop --debug",
     "start": "strapi start",
     "strapi": "strapi"
   },

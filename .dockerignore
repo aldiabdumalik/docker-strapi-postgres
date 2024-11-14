@@ -1,0 +1,7 @@
+.tmp/
+.cache/
+.git/
+buld/
+node_modules/
+data/
+_docker_volumes/
